@@ -1,2 +1,1 @@
-# assembly_DUMP
-Dump of remaining assembly level projects
+Dump of remaining assembly code.
